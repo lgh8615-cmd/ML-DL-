@@ -6,7 +6,6 @@
 머신러닝 기초 개념을 독학으로 학습하고 이를 실제 문제에 적용한 포트폴리오입니다.
 
 ## Structure
-- Basics: 개념 정리
 - Practice: 모델 실습
 - Application: 실제 문제 적용
 
